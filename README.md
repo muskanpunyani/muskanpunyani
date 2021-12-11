@@ -4,7 +4,7 @@
 [![Linkedin: Muskan Punyani](https://img.shields.io/badge/-Muskan%20Punyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskan-punyani/)](https://www.linkedin.com/in/muskan-punyani/)
 
   
-I develop software, build technical communities, create content and love meeting new people!
+Software Engineer!
 
 
 [![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskanpunyani&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/muskanpunyani/github-readme-stats)
