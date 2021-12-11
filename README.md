@@ -1,4 +1,4 @@
-# Hi 👐 , I'm Muskan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sumitt1080/master/Github.jpg">
+# Hi, I'm Muskan 
 </br>
 
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
