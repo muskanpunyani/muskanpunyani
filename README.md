@@ -1,7 +1,13 @@
 ## Hey! I'm Muskan Punyani. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub muskanpunyani]](https://github.com/muskanpunyani)
-[![Linkedin: Muskan Punyani](https://img.shields.io/badge/-Muskan%20Punyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskan-punyani/)](https://www.linkedin.com/in/muskan-punyani/)
+<div>
+<a href="https://github.com/prgarg007" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/prgarg007/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</div>
 
   
 Software Engineer!
